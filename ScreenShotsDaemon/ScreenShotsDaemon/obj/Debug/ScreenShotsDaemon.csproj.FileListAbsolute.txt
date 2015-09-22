@@ -1,0 +1,13 @@
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Debug\ScreenShotsDaemon.exe.config
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Debug\ScreenShotsDaemon.exe
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Debug\ScreenShotsDaemon.pdb
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.csprojResolveAssemblyReference.cache
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.Form1.resources
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.Properties.Resources.resources
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.csproj.GenerateResource.Cache
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.exe
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.pdb
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Debug\ScreenShotsDaemon.exe.manifest
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Debug\ScreenShotsDaemon.application
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.exe.manifest
+c:\users\code8086\documents\visual studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Debug\ScreenShotsDaemon.application

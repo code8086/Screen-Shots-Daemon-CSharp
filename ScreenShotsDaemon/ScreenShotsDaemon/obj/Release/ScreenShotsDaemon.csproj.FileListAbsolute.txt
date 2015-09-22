@@ -1,0 +1,25 @@
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.exe.config
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.exe.manifest
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.application
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.exe
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.pdb
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.csprojResolveAssemblyReference.cache
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.Form1.resources
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.Properties.Resources.resources
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.csproj.GenerateResource.Cache
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.exe.manifest
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.application
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.exe
+C:\Users\code8086\Documents\Visual Studio 2013\Projects\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.pdb
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.exe.config
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.exe
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.pdb
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.exe.manifest
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.application
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.exe
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\bin\Release\ScreenShotsDaemon.pdb
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.csprojResolveAssemblyReference.cache
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.Properties.Resources.resources
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.csproj.GenerateResource.Cache
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.exe.manifest
+C:\Users\code8086\Documents\ScreenShotsDaemon\ScreenShotsDaemon\obj\Release\ScreenShotsDaemon.application
